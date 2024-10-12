@@ -1,5 +1,7 @@
 require('dotenv').config()
 
+console.log("HEYYYYYY")
+
 const express = require('express')
 // import express from "express";
 const app = express()
